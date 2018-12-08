@@ -1,2 +1,2 @@
-today is 2018-12-08, it is snowing now! :)
+today is 2018-12-08, it is snowing now! :) Wang Jie's first Git test
 
